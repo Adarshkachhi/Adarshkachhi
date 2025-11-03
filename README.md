@@ -1,6 +1,7 @@
 @"
 # Hi, I'm Adarsh Kumar Kachhi 👋
-Aspiring Python & Data Science Developer | AI/ML Enthusiast | Building AI-powered tools 
+**AI & Data Science Student | Python Developer | Building AI & ML Projects**
+
 
 📍 Based in Bhopal, India
 📧 Email: adarshkachhi14581@gmail.com
