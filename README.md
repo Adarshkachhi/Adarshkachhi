@@ -1,9 +1,9 @@
 @"
 # Hi, I'm Adarsh Kumar Kachhi 👋
-Aspiring Python & Data Science Developer | AI/ML Enthusiast | Building AI-powered tools for HR & Analytics
+Aspiring Python & Data Science Developer | AI/ML Enthusiast | Building AI-powered tools 
 
 📍 Based in Bhopal, India
-📧 Email: adarsh.email@example.com
+📧 Email: adarshkachhi14581@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/Adarshkachhi
 🌐 GitHub: https://github.com/Adarshkachhi
 
