@@ -34,9 +34,6 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Tens
 **Key Learnings:** Working with APIs, file handling, GUI basics
 **Status:** Completed
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshkachhi&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/Adarshkachhi
 - Email: adarsh.email@example.com
