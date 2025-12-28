@@ -37,6 +37,13 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Tens
 **Key Learnings:** API integration, file handling, GUI basics  
 **Status:** Completed
 
+### [Todo List Application](https://github.com/Adarshkachhi/todo-list-application)
+> Python-based task management application to add, update, and manage daily tasks efficiently.
+
+**Tech Stack:** Python
+**Key Learnings:**  CRUD operations, user input handling, program flow design
+**Status:** Completed
+
 
 ## 🔗 Connect with Me
 - LinkedIn: [linkedin.com/in/Adarshkachhi](https://www.linkedin.com/in/Adarshkachhi)  
